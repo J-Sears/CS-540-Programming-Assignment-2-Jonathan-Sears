@@ -1,0 +1,3 @@
+--Take the programfiles and run them in visual studio
+The program will create 3 processes that each have a lottery ticket value given to them by a random number generator.
+The program will then order the processes by whichever one has the largest lottery number and then print out which process gets to run first.
